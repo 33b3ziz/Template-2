@@ -157,6 +157,7 @@ nav ul li a {
 @media (max-width: 767px) {
   nav ul {
     display: none;
+    background-color: rgb(0 0 0 / 50%);
   }
   nav ul li a {
     padding: 15px !important;
